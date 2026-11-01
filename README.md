@@ -1,3 +1,7 @@
+![Soico Televisão — N.White Systems engineering portfolio](assets/portfolio-brand.svg)
+
+[Portfolio overview](https://github.com/whitemorengwira) · [All case studies](https://github.com/whitemorengwira/nwhitesystems) · [N.White Systems](https://nwhite.systems/)
+
 # Soico Televisão — Production Engineering & Workflow Architecture
 ## Channel Branding · Mozambique Commercial Network · Channel Branding · Client: Grupo Soico (STV)
 
